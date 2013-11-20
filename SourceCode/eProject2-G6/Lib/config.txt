@@ -1,0 +1,1 @@
+localhost;1433;MyProject;sa;123456
