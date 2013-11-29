@@ -1,5 +1,5 @@
-﻿<Tên đề tài eProject, VD: Residential Database>   --  README.TXT
-Release Date: <Ngày đóng gói, VD 17-May-2012>
+﻿Elevation System   --  README.TXT
+Release Date: 11/29/2013
 
 Group Information 
 -----------------------
@@ -9,22 +9,23 @@ Region:	NORTH
 Centre Name: ACE-HANOI-10-FPT	
 Country: Vietnam
 
-Batch: <Tên lớp, VD: C1104G>
-Group Number: <Nhóm, VD: 01>
+Batch: GC0803
+Group Number: 06
 Members:
-	1. <Tên thành viên 1> - <mã đăng ký trên portal> (VD: Nguyen Van A - Student549896)
-	2. <Tên thành viên 2> - <mã đăng ký trên portal> (VD: Nguyen Van B - Student549897)Email: <Email của trưởng nhóm>
+	1. LE MANH TOAN - Student613041
+	2. NGUYEN THANH TUNG - Student615842
+	3. LE HONG PHUONG - Student463258 - phuonglhgc00112@fpt.edu.vn
 
 eProject Information
 ----------------------
-Start Date: dd-MMM-2012
-End Date: dd-MMM-2012
+Start Date: 11/02/2013
+End Date: 12/02/2013
 
 Package Information
 ---------------
  + Docs:
-	- eProject Report: <Tên file báo cáo>
- 	- eProject Install Guide: <Tên file hướng dẫn cài đặt>
- 	- eProject User Guide: <Tên file hướng dẫn sử dụng>
+	- eProject Report: "Elevation System.doc"
+ 	- eProject Install Guide: "Installation Guide.doc"
+ 	- eProject User Guide: "User Guide.doc"
  + Source Code folder: SourceCode
  + Program folder: Bin
